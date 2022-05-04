@@ -1,2 +1,0 @@
-# yuan-mall-admin
-admin
