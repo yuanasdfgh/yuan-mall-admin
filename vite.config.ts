@@ -12,6 +12,6 @@ export default defineConfig({
   },
   plugins: [vue()],
   server: {
-    port: 6666, //启动端口
+    port: 8000, //启动端口
   }
 });
